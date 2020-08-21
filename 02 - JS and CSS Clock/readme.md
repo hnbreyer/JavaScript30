@@ -20,5 +20,13 @@ if (seconds === 0){
         hourHand.style.transition = 'all 0.05s cubic-bezier(0.1, 2.7, 0.58, 1)';
     }
  ```
+ 
+ I prefer the second's hand to be thinner, so I added the following to the CSS file:
+ 
+ ```CSS
+ .second-hand {
+      height: 2px;
+    }
+ ```
 
 
