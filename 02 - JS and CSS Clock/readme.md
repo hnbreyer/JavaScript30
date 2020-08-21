@@ -1,6 +1,6 @@
 # Day 02 - JavaScript + CSS Clock
 
-View [Codepen]()
+View [Codepen](https://codepen.io/hnbreyer/pen/JjXbZGa)
 
 #### I've separated the JS, CSS and HTML files, I prefer it like that.
 
