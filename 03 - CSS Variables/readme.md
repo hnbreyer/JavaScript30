@@ -1,6 +1,6 @@
 # Day 03 - CSS Variables
 
-View [Codepen]()
+View [Codepen](https://codepen.io/hnbreyer/pen/JjXEQMP)
 
 I've never used CSS variables before, so this was something nice to learn!
 This feature provides a much clever and flexible connection between JavaScript and CSS styling.
