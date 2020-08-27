@@ -1,6 +1,5 @@
 # Day 04 - Array Cardio day 1
 
-View [Codepen]()
 
 This challenge was great to exercise some basic array functions, like ```.filter```, ```.map```, ```.sort``` and ```.reduce```.   
 
