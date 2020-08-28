@@ -1,6 +1,6 @@
 # Day 05 - Flex Panel Gallery
 
-View [Codepen]()
+View [Codepen](https://codepen.io/hnbreyer/pen/BaKZoPz)
 
 This challenge was a pretty fun one! I really like anything involving JavaScript and CSS, specially FlexBox.
 I didn't know much about FlexBox, so I decided to take on another challenge by Wes Bos - [What The FlexBox](https://flexbox.io/).
