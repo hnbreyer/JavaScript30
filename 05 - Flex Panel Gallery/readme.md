@@ -6,7 +6,7 @@ This challenge was a pretty fun one! I really like anything involving JavaScript
 I didn't know much about FlexBox, so I decided to take on another challenge by Wes Bos - [What The FlexBox](https://flexbox.io/).
 
 On this challenge, I didn't make modifications, so I'll make a run down of the exercise.
-The goal was to create a gallery of flex panels that can be toggled open and closed.
+The goal was to create a gallery of flex panels that can be toggled open/close.
 
 Firstly, I made sure these panels were displayed side by side by adding ```display: flex```
 ```CSS
