@@ -57,11 +57,11 @@ function displayMatches(){
    const regex = new RegExp(this.value, 'gi');
    const cityName = place.city.replace(regex, `<span class="hl">${this.value}</span>`);
    const stateName = place.state.replace(regex, `<span class="hl">${this.value}</span>`);
-   const formatter = new Intl.NumberFormat('en-US'); /////here
+   const formatter = new Intl.NumberFormat('en-US'); 
    return `
     <li>
       <span class="name">${cityName}, ${stateName}</span>
-      <span class="population">${formatter.format(place.population)}</span>  /////here
+      <span class="population">${formatter.format(place.population)}</span>  
     </li>
    `;
  }).join('');
