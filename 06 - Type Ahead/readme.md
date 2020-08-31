@@ -1,6 +1,6 @@
 # Day 06 - Type Ahead
 
-View [Codepen]()
+View [Codepen](https://codepen.io/hnbreyer/pen/yLOooQR)
 
 On this challenge, we needed to implement a 'type ahead' functionality to a search, and pull data from a remote dataset.
 This one used ```fetch()```, regular expressions, array functions... It was longer to get it done, but I sure learned a lot!
