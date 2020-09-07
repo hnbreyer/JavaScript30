@@ -35,8 +35,16 @@ Interpolation and style for ```console.log``` <br>
     // Testing
     const p = document.querySelector('p');
     console.assert(1 === 1, 'That is wrong'); //nothing happens
-    console.assert(p.classList.contains('ouch'), 'That\'s wrong!');
+    console.assert(p.classList.contains('ouch'), 'That\'s wrong!'); //we get an error message
+```    
+    
+ ```console.warn```, ```console.error```, ```console.info``` and ```console.assert``` on the console:
+    
+<img src="images/consoles-misc.png" width="300" height="100">
 
+
+
+```javascript
     // clearing
     console.clear();  //clears the console
  
