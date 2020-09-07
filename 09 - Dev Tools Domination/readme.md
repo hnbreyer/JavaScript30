@@ -105,3 +105,6 @@ And this is what we get in the console: <br>
       });
 ```
 
+```console.time``` will show the time it takes to fetch the information:
+
+<img src="images/console-time.png" width="1200" height="100">
