@@ -61,6 +61,9 @@ Interpolation and style for ```console.log``` <br>
     });
 ```
 
+<img src="images/console-group.png" width="500" height="200">
+
+
 ```console.count``` counts the instances of the same item:
     
 ```javascript
@@ -76,6 +79,8 @@ Interpolation and style for ```console.log``` <br>
     console.count('Steve');
     console.count('Steve');
 ```
+
+And this is what we get in the console: <br>
 
 <img src="images/console-count.png" width="500" height="200">
 
