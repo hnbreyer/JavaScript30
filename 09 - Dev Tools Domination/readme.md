@@ -76,7 +76,8 @@ Interpolation and style for ```console.log``` <br>
     console.count('Steve');
     console.count('Steve');
 ```
-❮img src="images/console-count.png" width="100" ❯
+
+![](images/console-count.png)
 
 ```javascript
     // timing
