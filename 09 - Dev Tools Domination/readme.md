@@ -79,6 +79,7 @@ Interpolation and style for ```console.log``` <br>
 
 ![](images/console-count.png)
 
+
 ```javascript
     // timing
     console.time('fetching data');
