@@ -1,6 +1,6 @@
 # Day 08 - HTML5 Canvas
 
-View [Codepen]()
+View [Codepen](https://codepen.io/hnbreyer/pen/RwaQbbX)
 
 This was the first time I've ever used ```<canvas>``` and it was great fun! I felt like I travelled back in time when I would mess around with Paint on Windows.
 
